@@ -71,15 +71,15 @@ span.rvts13
 }
 a.rvts14, span.rvts14
 {
- color: #0000ff;
- text-decoration: underline;
-}
-a.rvts15, span.rvts15
-{
  font-size: 9pt;
  font-family: 'consolas';
  color: #24292e;
  background-color: #ffffff;
+ text-decoration: underline;
+}
+a.rvts15, span.rvts15
+{
+ color: #0000ff;
  text-decoration: underline;
 }
 span.rvts16 /* Font Style */
