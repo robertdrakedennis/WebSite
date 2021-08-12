@@ -15,7 +15,7 @@ features:
 
 ## Download
 
-The New 7D2D Mod Launcher Link can be found here: <a class="rounded-lg bg-primary-900 text-white shadow px-4 py-2 ml-2" href="https://github.com/7D2DModLauncher/ThickInstaller/blob/master/SetupInstaller.msi?raw=true">Download</a>
+The New 7D2D Mod Launcher Link can be found here: <a class="rounded-lg bg-primary-50 text-white shadow px-4 py-2 ml-2" href="https://github.com/7D2DModLauncher/ThickInstaller/blob/master/SetupInstaller.msi?raw=true">Download</a>
 
 
 The 7D2D Mod launcher provides an effortless way to play your favourite mods for 7 Days to Die, while keeping them updated automatically for you. It also provides an easy way to explore and finds new mods.
