@@ -11,5 +11,9 @@
   "dependencies": {
     "@nuxt/content-theme-docs": "0.10.1",
     "nuxt": "^2.15.8"
+  },
+  "resolutions": {
+    "nuxt": "2.15.6",
+    "@nuxt/components": "2.1.8"
   }
 }
